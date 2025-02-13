@@ -2,8 +2,6 @@
 
 ## **🧾Table of Contents**
 
-- [**Art World | Love, Laugh, Learn, Lucrative for Art🎨**](#art-world--love-laugh-learn-lucrative-for-art)
-  - [**🧾Table of Contents**](#table-of-contents)
   - [**📖Introduction**](#introduction)
   - [**🚀How to Access Art World**](#how-to-access-art-world)
   - [**🎮Gameplay \& Features**](#gameplay--features)
